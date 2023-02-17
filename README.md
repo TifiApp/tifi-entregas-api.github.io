@@ -52,7 +52,7 @@
 >
 >**apikey : corresponde al apikey proporcionada por parte de tifi**
 >
->**ciudad : se debe enviar en nombre de la nameCity , obtenido de "https://tifivirgin-backend.herokuapp.com/api/requests/virgin/cities/{nameDepartment}"**
+>**ciudad : se debe enviar el nameCity , obtenido de "https://tifivirgin-backend.herokuapp.com/api/requests/virgin/cities/{nameDepartment}"**
 >
 >  ### **URL**: https://tifivirgin-backend.herokuapp.com/api/requests/virgin/create
 >
