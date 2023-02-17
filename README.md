@@ -49,8 +49,10 @@
 # Método [POST] - /api/requests/virgin/create
 
 > **Descripción**: Este método me permite crear una solicitud con los siguientes datos en la API.
-**apikey: corresponde al apikey proporcionada por parte de tifi**
-**ciudad: se debe enviar en nombre de la nameCity obtenido de "https://tifivirgin-backend.herokuapp.com/api/requests/virgin/cities/{nameDepartment}**
+>
+>**apikey : corresponde al apikey proporcionada por parte de tifi**
+>
+>**ciudad : se debe enviar en nombre de la nameCity , obtenido de "https://tifivirgin-backend.herokuapp.com/api/requests/virgin/cities/{nameDepartment}"**
 >
 >  ### **URL**: https://tifivirgin-backend.herokuapp.com/api/requests/virgin/create
 >
@@ -80,7 +82,7 @@
 
 > **Descripción**: Este método me devuelve todos los departamentos por un país que se envía como parámetro
 >
-> **nameCountry correspondiente al país debe ir en mayúsculas y es un string.**
+> **nameCountry correspondiente al país debe ir en mayúsculas y es un string.** (COLOMBIA)
 >
 >  ### **URL**: https://tifivirgin-backend.herokuapp.com/api/requests/virgin/deparments/{nameCountry}
 >
