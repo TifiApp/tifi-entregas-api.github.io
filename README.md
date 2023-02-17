@@ -49,6 +49,8 @@
 # Método [POST] - /api/requests/virgin/create
 
 > **Descripción**: Este método me permite crear una solicitud con los siguientes datos en la API.
+**apikey: corresponde al apikey proporcionada por parte de tifi**
+**ciudad: se debe enviar en nombre de la nameCity obtenido de "https://tifivirgin-backend.herokuapp.com/api/requests/virgin/cities/{nameDepartment}**
 >
 >  ### **URL**: https://tifivirgin-backend.herokuapp.com/api/requests/virgin/create
 >
